@@ -30,3 +30,9 @@ select, option {
     background-color: whitesmoke;
     border-radius: 5px;
 }
+
+@media (max-width: 435px) {
+    .app__row {
+        width: 80%;
+    }
+  }
